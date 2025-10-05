@@ -1,10 +1,10 @@
 # Patient Encounter Cost & Risk Analysis in Healthcare Systems
 
 ## Executive Summary:
-Healthcare organizations face growing challenges in managing rising costs, payer coverage gaps, and operational inefficiencies. To address this, I leveraged SQL for data analysis and Power BI for visualization to examine patient encounters, procedure costs, and payer performance. The project identified 159 high-cost patients, 41 long-duration encounters, and major coverage gaps in high-value procedures like Electrical Cardioversion.
+Healthcare organizations face growing challenges in **managing rising costs, payer coverage gaps, and operational inefficiencies**. To address this, I leveraged SQL for data analysis and Power BI for visualization to examine patient encounters, procedure costs, and payer performance. The project identified 159 high-cost patients, 41 long-duration encounters, and major coverage gaps in high-value procedures like Electrical Cardioversion.
 Next steps include automating dashboards for real-time insights and integrating predictive models to anticipate high-cost patients.
 This project can help healthcare organizations achieve measurable improvements by :
-1) Improving revenue performance by 10–15% through better payer negotiations and optimized claim management.
+1) Improving revenue performance by **10–15%** through better payer negotiations and optimized claim management.
 2) Reducing uncovered costs by up to 20% by identifying high-cost encounters and addressing coverage gaps.
 3) Enhancing care efficiency through data-driven insights that streamline resource utilization and patient management.
 
